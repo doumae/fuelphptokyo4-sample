@@ -6,9 +6,11 @@
 return array(
 	'default' => array(
 		'connection'  => array(
-			'dsn'        => 'mysql:host=localhost;dbname=fuel_dev',
-			'username'   => 'root',
-			'password'   => 'root',
+			'dsn'        => 'mysql:host=localhost;dbname=atnd',
+			'username'   => 'atnd',
+			'password'   => '3G9hyNLrZaCnJbvv',
+            'database'   => 'atnd',
+            'port'       => '3306'
 		),
 	),
 );

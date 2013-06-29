@@ -6,5 +6,7 @@
  */
 
 return array(
-
+    'default' => array(
+        'type' => 'mysqli',
+    ),
 );
