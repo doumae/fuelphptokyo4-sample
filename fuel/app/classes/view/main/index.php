@@ -27,8 +27,9 @@ class View_Main_index extends ViewModel
                     }
                 }
 
+            }else{
+                echo '';
             }
-            echo '';
         };
     }
 }
